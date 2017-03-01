@@ -1,0 +1,9 @@
+Microsoft.XboxApp
+Microsoft.SkypeApp
+Microsoft.ZuneMusic
+Microsoft.ZuneVideo
+Microsoft.Messaging
+Microsoft.OfficeHub
+Microsoft.Office.OneNote
+Microsoft.People
+Microsoft.windowscommunicationsapps
