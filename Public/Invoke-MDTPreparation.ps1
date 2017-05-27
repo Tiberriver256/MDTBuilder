@@ -21,7 +21,7 @@ function Invoke-MDTPreparation {
       {
         Ensure = "Present" # You can also set Ensure to "Absent"
         Type = "File" # Default is "File".
-        SourcePath = "\\nahollap544\apps\Source\Haworth\EITcesTools\ISO's\SW_DVD5_WIN_ENT_10_1607_64BIT_English_MLF_X21-07102.ISO"
+        SourcePath = "http://care.dlservice.microsoft.com/dl/download/C/3/9/C399EEA8-135D-4207-92C9-6AAB3259F6EF/10240.16384.150709-1700.TH1_CLIENTENTERPRISEEVAL_OEMRET_X64FRE_EN-US.ISO"
         DestinationPath = "$WorkingDirectory\SW_DVD5_WIN_ENT_10_1607_64BIT_English_MLF_X21-07102.ISO"
       }
 
